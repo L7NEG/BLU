@@ -7,7 +7,7 @@ Enjoy
 
 Discord Server
 
-https:dsc.gg/l7neg-
+https://dsc.gg/l7neg-
 
 Telegram
 
