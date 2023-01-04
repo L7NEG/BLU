@@ -1,0 +1,54 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-repeat: no-repeat;
+    background: linear-gradient(45deg, #333, rgb(93, 130, 154));
+    background-attachment: fixed;
+}
+
+strong {
+    font-weight: 700;
+}
+
+.main-heading-container {
+    background: linear-gradient(45deg, #333, rgb(93, 130, 154));
+    border-radius: 5px;
+}
+
+.main-heading {
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.dll-card {
+    background: inherit;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 1), -2px -2px 2px rgba(0, 0, 0, 1);
+}
+
+.col-lg-3 {
+    width: 31%;
+}
+
+@media (max-width: 991px) {
+    .col-sm-12 {
+        width: 100%;
+    }
+}
+
+.mt-2 {
+    font-size: 1.4rem;
+}
+
+.languages {
+    right: 1rem;
+}
+
+.menu-design {
+    height: 360px;
+    width: 290px;
+    padding-bottom: 12px;
+}
